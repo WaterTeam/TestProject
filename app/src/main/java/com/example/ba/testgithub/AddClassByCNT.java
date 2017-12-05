@@ -5,16 +5,6 @@ package com.example.ba.testgithub;
  */
 
 public class AddClassByCNT {
-
-    //往CNT代码中测试
-    public void BASet(){
+    public void BASet() {
     }
-/**
- *添加方法
- * @author CNT on 2017/12/5.
- * @param
- * @return
- * @exception
- */
-    void test(){}
 }
