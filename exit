@@ -1,0 +1,46 @@
+[33mcommit a5a84fad2fd4a9d43c0f57bf32ff9410f266559d[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: CNTcnt <CNTcnt@gmail.com>
+Date:   Tue Dec 5 10:49:55 2017 +0800
+
+    陈南泰第一次提交添了一个类
+
+[1mdiff --git a/.idea/modules.xml b/.idea/modules.xml[m
+[1mindex 280fc41..2c1d9aa 100644[m
+[1m--- a/.idea/modules.xml[m
+[1m+++ b/.idea/modules.xml[m
+[36m@@ -3,6 +3,8 @@[m
+   <component name="ProjectModuleManager">[m
+     <modules>[m
+       <module fileurl="file://$PROJECT_DIR$/TestGitHub.iml" filepath="$PROJECT_DIR$/TestGitHub.iml" />[m
+[32m+[m[32m      <module fileurl="file://$PROJECT_DIR$/TestProject.iml" filepath="$PROJECT_DIR$/TestProject.iml" />[m
+[32m+[m[32m      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />[m
+       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />[m
+     </modules>[m
+   </component>[m
+[1mdiff --git a/.idea/vcs.xml b/.idea/vcs.xml[m
+[1mnew file mode 100644[m
+[1mindex 0000000..35eb1dd[m
+[1m--- /dev/null[m
+[1m+++ b/.idea/vcs.xml[m
+[36m@@ -0,0 +1,6 @@[m
+[32m+[m[32m<?xml version="1.0" encoding="UTF-8"?>[m
+[32m+[m[32m<project version="4">[m
+[32m+[m[32m  <component name="VcsDirectoryMappings">[m
+[32m+[m[32m    <mapping directory="" vcs="Git" />[m
+[32m+[m[32m  </component>[m
+[32m+[m[32m</project>[m
+\ No newline at end of file[m
+[1mdiff --git a/app/src/main/java/com/example/ba/testgithub/AddClassByCNT.java b/app/src/main/java/com/example/ba/testgithub/AddClassByCNT.java[m
+[1mnew file mode 100644[m
+[1mindex 0000000..fd74f70[m
+[1m--- /dev/null[m
+[1m+++ b/app/src/main/java/com/example/ba/testgithub/AddClassByCNT.java[m
+[36m@@ -0,0 +1,8 @@[m
+[32m+[m[32mpackage com.example.ba.testgithub;[m
+[32m+[m
+[32m+[m[32m/**[m
+[32m+[m[32m * Created by Administrator on 2017/12/5.[m
+[32m+[m[32m */[m
+[32m+[m
+[32m+[m[32mpublic class AddClassByCNT {[m
+[32m+[m[32m}[m
